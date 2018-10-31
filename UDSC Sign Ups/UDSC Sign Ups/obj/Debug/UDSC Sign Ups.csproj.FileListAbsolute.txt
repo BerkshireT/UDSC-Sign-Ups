@@ -1,0 +1,21 @@
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\bin\Debug\UDSC Sign Ups.exe.config
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\bin\Debug\UDSC Sign Ups.exe
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\bin\Debug\UDSC Sign Ups.pdb
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\UDSC Sign Ups.csprojAssemblyReference.cache
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\MainWindow.g.cs
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\App.g.cs
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\UDSC Sign Ups_MarkupCompile.cache
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\UDSC Sign Ups_MarkupCompile.lref
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\MainWindow.baml
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\UDSC Sign Ups.g.resources
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\UDSC_Sign_Ups.Properties.Resources.resources
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\UDSC Sign Ups.csproj.GenerateResource.cache
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\UDSC Sign Ups.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\UDSC Sign Ups.exe
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\UDSC Sign Ups.pdb
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\SignUpControl.g.cs
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\SignUpControlData.g.cs
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\SignUpControl.baml
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\SignUpControlData.baml
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\Finish.g.cs
+C:\Users\Tyler\Documents\UDSC Sign Ups\UDSC Sign Ups\obj\Debug\Finish.baml

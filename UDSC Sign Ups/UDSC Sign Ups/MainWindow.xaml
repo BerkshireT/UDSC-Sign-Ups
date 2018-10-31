@@ -1,0 +1,34 @@
+﻿<Window x:Class="UDSC_Sign_Ups.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UDSC_Sign_Ups"
+        mc:Ignorable="d"
+        Title="UDSC Sign-Ups" Height="450" Width="800" Background="#FF2D2D30">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <ContentControl x:Name="contentControl" />
+
+        <TextBox x:Name ="Sm4shList" HorizontalAlignment="Left" Margin="630,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="220" Width="150" Background="#FF424247" Foreground="#FFF1F1F1" BorderBrush="#FF1B1B1D" TextAlignment="Left" ScrollViewer.CanContentScroll="True"/>
+        <TextBox x:Name ="MeleeList" HorizontalAlignment="Left" Margin="470,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="220" Width="155" Background="#FF424247" Foreground="#FFF1F1F1" BorderBrush="#FF1B1B1D" TextAlignment="Left" ScrollViewer.CanContentScroll="True"/>
+        <TextBlock x:Name ="MeleeTextBox" HorizontalAlignment="Left" Margin="470,74,0,0" TextWrapping="Wrap" Text="Melee:" VerticalAlignment="Top" Foreground="White"/>
+        <TextBlock x:Name ="Sm4shTextBox" HorizontalAlignment="Left" Margin="630,74,0,0" TextWrapping="Wrap" Text="Sm4sh:" VerticalAlignment="Top" Foreground="White"/>
+
+        <TextBox x:Name="Date" HorizontalAlignment="Left" Height="17" Margin="600,134,0,0" VerticalAlignment="Top" Width="120" Background="#FF424247" Foreground="#FFF1F1F1" BorderBrush="#FF1B1B1D" TextAlignment="Right"/>
+        <TextBox x:Name="Organizer" HorizontalAlignment="Left" Height="17" Margin="600,194,0,0" VerticalAlignment="Top" Width="120" Background="#FF424247" Foreground="#FFF1F1F1" BorderBrush="#FF1B1B1D" TextAlignment="Right"/>
+        <Button x:Name="LogOnSubmit" Content="Submit" HorizontalAlignment="Left" Margin="565,310,0,0" VerticalAlignment="Top" Width="75" Click="SubmitButton"/>
+
+        <RadioButton x:Name="Melee" Content="Melee" HorizontalAlignment="Left" Margin="485,245,0,0" VerticalAlignment="Top" Foreground="#FFF1F1F1"/>
+        <RadioButton x:Name="Sm4sh" Content="Smash 4" HorizontalAlignment="Left" Margin="570,245,0,0" VerticalAlignment="Top" Foreground="#FFF1F1F1"/>
+        <RadioButton x:Name="None" Content="None" HorizontalAlignment="Left" Margin="660,245,0,0" VerticalAlignment="Top" Foreground="#FFF1F1F1"/>
+        <Button x:Name="DataSubmit" Content="Submit" HorizontalAlignment="Left" Margin="565,310,0,0" VerticalAlignment="Top" Width="75" Click="DataSubmitButton"/>
+        <TextBox x:Name="Name" HorizontalAlignment="Left" Height="17" Margin="600,109,0,0" VerticalAlignment="Top" Width="120" Background="#FF424247" Foreground="#FFF1F1F1" BorderBrush="#FF1B1B1D" TextAlignment="Right"/>
+        <TextBox x:Name="Email" HorizontalAlignment="Left" Height="17" Margin="600,154,0,0" VerticalAlignment="Top" Width="120" Background="#FF424247" Foreground="#FFF1F1F1" BorderBrush="#FF1B1B1D" TextAlignment="Right"/>
+        <TextBox x:Name="Gamertag" HorizontalAlignment="Left" Height="17" Margin="600,194,0,0" VerticalAlignment="Top" Width="120" Background="#FF424247" Foreground="#FFF1F1F1" BorderBrush="#FF1B1B1D" TextAlignment="Right"/>
+        <Button x:Name="FinishButton" Content="Finish" HorizontalAlignment="Left" Margin="162,330,0,0" VerticalAlignment="Top" Width="76" Click="FinishButtonClick"/>
+    </Grid>
+</Window>
